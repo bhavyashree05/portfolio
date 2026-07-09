@@ -21,7 +21,7 @@ This portfolio showcases my:
 - Git & GitHub
 
 ## Live Demo
-Coming Soon
+https://portfolio-cerf.onrender.com
 
 ## Author
 Bhavya Shree
